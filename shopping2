@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <meta charset="utf-8">
+ <title>article2</title>
+ <link rel="stylesheet" href="css/style.css" type="text/css" />
+ <link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ </head>
+ <body>
+ <div class="wrap">
+ <header>
+
+	<ul>
+			<li>HELLO</li>
+			<li>dg</li>
+			<li></li>
+			<li></li>
+		</ul>	
+
+</header>
+ <article>
+
+ </article>
+ </div>
+ </body>
+ </html>
